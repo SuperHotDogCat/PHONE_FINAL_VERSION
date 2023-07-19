@@ -1,0 +1,2 @@
+# PHONE_FINAL_VERSION
+授業で作ったものです
