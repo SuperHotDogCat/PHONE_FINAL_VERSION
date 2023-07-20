@@ -34,8 +34,8 @@ python3 write_down.py obama.wav write_down.txt
 しばらくするとwrite_down.txtに書き起こしした内容と翻訳した内容が書き込まれるはずです。<br>
 <br>
 ここまでを実行した後、<br>
-`./phone_serv_test.sh
-./phone_client_test.sh`
+`./phone_serv.sh
+./phone_client.sh`
 <br>の順でシェルコマンドを実行すれば使えます。<br>
 友達と通話したい時はconnnection.iniを編集しましょう。<br>
 
