@@ -30,7 +30,8 @@ chmod +x phone_client_test.sh
 上手く書き起こし、翻訳機能が使えるかを確認しましょう。<br>
 `
 python3 write_down.py obama.wav write_down.txt
-`
+`<br>
+しばらくするとwrite_down.txtに書き起こしした内容と翻訳した内容が書き込まれるはずです。<br>
 <br>
 ここまでを実行した後、<br>
 `./phone_serv_test.sh
